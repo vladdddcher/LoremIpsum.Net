@@ -1,0 +1,15 @@
+// @font-face {
+
+@font-face {
+    font-family: 'Lato-Heavy';
+    src: url('../fonts/Lato-Heavy.woff2') format('woff2'),
+         url('../fonts/Lato-Heavy.woff') format('woff');
+    font-weight: 800;
+}
+
+@font-face {
+    font-family: 'Lato-Semibold';
+    src: url('../fonts/Lato-Semibold.woff2') format('woff2'),
+         url('../fonts/Lato-Semibold.woff') format('woff');
+    font-weight: 600;
+}
